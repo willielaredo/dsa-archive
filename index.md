@@ -15,3 +15,5 @@
 [Anti-Corporate Organizing Priority Proposal](/nam/v001_n003_1972_January/anti-corporate-organizing.md)
 
 [Priority Proposal From The War And Imperialism Workshop](/nam/v001_n003_1972_January/anti-war-and-imperialism.md)
+
+[Campus Organizing - Majority Position](/nam/v001_n003_1972_January/campus-organizing.md)
