@@ -6,12 +6,12 @@
 4. Price Activity
 5. Taxation
 6. Social Services
-7. DayCare
+7. Day Care
 8. People's Control of the Economy
 
 ## 1\. Internal Education
 
-The National Interim Committee shall develop an educational program on the economy for all N.A. M. chapters.
+The National Interim Committee shall develop an educational program on the economy for all N.A.M. chapters.
 
 ## 2\. Strike Support 
 
@@ -47,7 +47,7 @@ b. That the target not be so remote that local activity is irrelevant (e.g., ste
 
 c. That there be a lag between the announcement of the price rise and its implementation so as to permit *time* for mass mobilization (e.g., prices subject to a public decision-making process as with utility rates) 
 
-The following are the major types of prices fit- ting this strategic concept of key prices: 
+The following are the major types of prices fitting this strategic concept of key prices: 
 1\. utility rates, 2. state and local taxes, 3. (sometimes) rents and food chain prices, and 4. transit fares. 
 
 N.A.M. chapters should choose one or more key area-wide price decisions or existing price inequities (e.g., a utility filing for a rate increase) and campaign to freeze or roll back that price. The campaign should make that price struggle a symbol in the public mind of the whole price structure. It should, with whatever specificity is appropriate, raise the goal of social control over these decisions in place of private control. And the basis for community organizing should be the involvement of whatever community organizations (such as local unions and rank and file groups) and institutions can be brought into the struggle, as well as the elaboration of new community group. The *[unreadable]* may well create the opportunity to broaden the organizing thrust to include other kinds of consumer struggles as well; and wherever possible should be linked to the demand for decent wages for the relevant employees.
@@ -82,18 +82,18 @@ Of particular importance is a nationally coordinated attack on the day care prog
 1. To take women "off the welfare rolls" and put them into low paid jobs
 2. To funnel money to corporate interests-i.e., "Control Data" and real estate interests. 
 3. 
-4. Money must be channelled to community con- trolled child care centers, not to corporate con- trolled "Kentucky Fried Chicken" centers. Attack could take the form of neighborhood organizing to gain control of local day care councils, thus of funds and regulations. 
+4. Money must be channelled to community controlled child care centers, not to corporate controlled "Kentucky Fried Chicken" centers. Attack could take the form of neighborhood organizing to gain control of local day care councils, thus of funds and regulations. 
  
 N.A.M. child care projects should meet the following criteria: 
-1. Provide loving enlightened child care and attempt to break down sex role stereotypes, for ex- ample by hiring men on the staff. 
-2. Be a politicizing force which brings new members into N.A.M. and raises their conscious- ness. 
+1. Provide loving enlightened child care and attempt to break down sex role stereotypes, for example by hiring men on the staff. 
+2. Be a politicizing force which brings new members into N.A.M. and raises their consciousness. 
 3. Day care centers at work places should be paid for entirely by the employer, and controlled entirely by the parents.  
  
 The N.A.M. conference workshop on Child Care shall be incorporated into the N.A.M. interim structure as a continuing committee for research and information in this area. Funds should be available from N.A.M. for such activities as a clearinghouse for such information. We recommend that at least one member of the N.I.C. have as his or her main program responsibility, the development and coordination of N.A.M.'s child care program. 
 
 ## 8\. People's Control of the Economy 
 
-We believe that "People's Control of the Economy" should be a central principle of N.A. M. "People's Control of the Economy" opens the door to discussion of our ultimate goal and squarely confronts the new economic policy through which the government nakedly manages the economy on behalf of the corporations. 
+We believe that "People's Control of the Economy" should be a central principle of N.A.M. "People's Control of the Economy" opens the door to discussion of our ultimate goal and squarely confronts the new economic policy through which the government nakedly manages the economy on behalf of the corporations. 
 
 This means that in all specific activities, as well as in our literature, we should raise the question of "Who decides?" and answer, "Working people should––men, women, and children, ranging from production workers through housewives, older people, street people, etc." 
 
