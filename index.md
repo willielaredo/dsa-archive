@@ -17,3 +17,5 @@
 [Priority Proposal From The War And Imperialism Workshop](/nam/v001_n003_1972_January/anti-war-and-imperialism.md)
 
 [Campus Organizing - Majority Position](/nam/v001_n003_1972_January/campus-organizing.md)
+
+[Health & Safety: Political Perspectives](/nam/v001_n003_1972_January/health-and-safety.md)
