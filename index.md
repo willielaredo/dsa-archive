@@ -10,4 +10,6 @@
 
 [Economic Program of NAM](/nam/v001_n003_1973_January/economic-programs-of-nam.md)
 
+[Women in NAM: Report on the Women's Caucus](/nam/v001_n003_1973_January/women-in-nam.md)
+
 
