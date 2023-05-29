@@ -14,4 +14,4 @@
 
 [Anti-Corporate Organizing Priority Proposal](/nam/v001_n003_1972_January/anti-corporate-organizing.md)
 
-[Anti-Corporation Organizing Priority Proposal](/nam/v001_n003_1972_January/anti-war-and-imperialism.md)
+[Priority Proposal From The War And Imperialism Workshop](/nam/v001_n003_1972_January/anti-war-and-imperialism.md)
