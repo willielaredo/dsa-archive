@@ -1,6 +1,6 @@
-Economic Programs of N.A.M., Adopted at Davenport, Iowa
+# Economic Programs of N.A.M., Adopted at Davenport, Iowa
 
-I. Internal Education
+1. Internal Education
 2. Strike Support
 3. Equal Work and Equal Pay for Women
 4. Price Activity
@@ -9,11 +9,11 @@ I. Internal Education
 7. DayCare
 8. People's Control of the Economy
 
-1\. Internal Education
+## 1\. Internal Education
 
 The National Interim Committee shall develop an educational program on the economy for all N.A. M. chapters.
 
-2\. Strike Support 
+## 2\. Strike Support 
 
 We support all strikes that attempt to break the wage guidelines; we give priority to wildcat, illegal, and profit-limiting strikes. We encourage union sanctioned and wildcat strikes to extend their struggle into the arena of corporate and state policy, as a basic method of transforming the divisive character of these policies. Wherever possible we attempt to bring to these strikes class-wide demands which can bring together all sections of the working class around a common interest program. (For instance, when public employees strike for higher wages, rather than setting their demands in conflict with the community N.A.M. should demand that the government tax the rich to pay for it, and not use it as a rationale to cut back public services to the poor.) We are also committed to fighting all anti-working class, anti-strike legislation and actions on the part of the government (Taft-Hartley, anti-strike laws, use on injunctions, and so on.) 
 
@@ -25,7 +25,7 @@ The following key strategic objectives should provide guidelines for N.A.M. stri
 5. Meeting the needs of the strikers (e.g., access to legal assistance, printing facilities, day care assistance, supplies, etc.)
 
 
-3\. Equal Work and Equal Pay for Women
+## 3\. Equal Work and Equal Pay for Women
 
 The New American Movement should initiate a fight for women's liberation in the workforce as an integral part of its response to the new economic policy. The central focus of such a campaign would be Equal Work and Equal Pay, but it would also take up the issues of child care, equivalent pay for part-time work, no loss of seniority for maternity leaves or leaves of absence necessitated by women's role in the family, and an end to sexual tracking in the schools. 
 
@@ -35,14 +35,16 @@ Women, in numbers as substantial as possible, would go into the employment offic
 
 We can also link such a campaign to other portions of our new economic policy: program, such as campaigns against rate increases by AT&T, where there is already substantial interest and where a public service commission rules on increases.
 
-4\. Price Activity
+## 4\. Price Activity
 
 N.A.M. chapters should undertake to initiate and create community organizations whose program is to combat oligopoly pricing power. The principle is clear, but the application is difficult because N.A.M. organizers will have to make choices among potential targets on strategic grounds. N.A.M. chapters will have to choose which classes of price fixing can be made vulnerable to politicized mass organizing. 
 
 The criteria N.A.M. should use are the following:
 
 a. That the price be significant enough (i.e., affect the family budget) to generate widespread support
+
 b. That the target not be so remote that local activity is irrelevant (e.g., steel prices), nor so localized that it is very difficult to go beyond neighborhood organizing 
+
 c. That there be a lag between the announcement of the price rise and its implementation so as to permit *time* for mass mobilization (e.g., prices subject to a public decision-making process as with utility rates) 
 
 The following are the major types of prices fit- ting this strategic concept of key prices: 
@@ -50,11 +52,11 @@ The following are the major types of prices fit- ting this strategic concept of 
 
 N.A.M. chapters should choose one or more key area-wide price decisions or existing price inequities (e.g., a utility filing for a rate increase) and campaign to freeze or roll back that price. The campaign should make that price struggle a symbol in the public mind of the whole price structure. It should, with whatever specificity is appropriate, raise the goal of social control over these decisions in place of private control. And the basis for community organizing should be the involvement of whatever community organizations (such as local unions and rank and file groups) and institutions can be brought into the struggle, as well as the elaboration of new community group. The *[unreadable]* may well create the opportunity to broaden the organizing thrust to include other kinds of consumer struggles as well; and wherever possible should be linked to the demand for decent wages for the relevant employees.
 
-5\.Taxation
+## 5\.Taxation
 
 The goals should be a sharp reduction of federal, state, and local taxes on lower and middle income groups, to be accompanied by drastic reductions in military expenditures and increases in taxes on corporations and upper income groups. N.A.M. and its chapters should develop specific programs and proposals within this framework. We strongly encourage N.A.M. chapters to develop state and local tax initiatives to meet these goals.
 
-6\.Social Services
+## 6\.Social Services
 
 The N.A.M. in its programs should respond to the current decline in government services, including health facilities, housing, mass transit, welfare programs, educational facilities; and police and fire departments. State and local governments are reacting to the present financial crisis with a widespread move toward austerity which includes severe cutbacks in services provided, so-called "slave labor" and "brownie point" systems for welfare recipients, large-scale layoffs of public employees in all types of jobs, rising prices of services not wholly subsidized by taxation, and even the shutting down of vital service institutions. This is resulting in a growing awareness among working people that despite crushing taxation the quality of life in America is deteriorating and the government is unable to meet basic needs. The following are suggestions for actions in these areas. 
 
@@ -72,7 +74,7 @@ The long term objectives of such programs include:
 3. Development of a consciousness that all people have an absolute right to the services they need to live in this society.
 4. Development of an awareness that government bureaucracy and the capitalist system cannot meet social needs in an adequate and democratic manner, and that therefore popular control is necessary.
 
-7\. Child Care
+## 7\. Child Care
 
 An issue which unites women's interests, workplace and community organizing, unpaid labor (in the home), sex roles and sex typing, and the economic exploitation of women by the nuclear family structure, child care should be a project of each N.A.M. chapter. Different versions of child care programs could be worked on by different chapters, depending upon local needs.
 
@@ -82,14 +84,14 @@ Of particular importance is a nationally coordinated attack on the day care prog
 3. 
 4. Money must be channelled to community con- trolled child care centers, not to corporate con- trolled "Kentucky Fried Chicken" centers. Attack could take the form of neighborhood organizing to gain control of local day care councils, thus of funds and regulations. 
  
-N.A. M. child care projects should meet the following criteria: 
+N.A.M. child care projects should meet the following criteria: 
 1. Provide loving enlightened child care and attempt to break down sex role stereotypes, for ex- ample by hiring men on the staff. 
 2. Be a politicizing force which brings new members into N.A.M. and raises their conscious- ness. 
 3. Day care centers at work places should be paid for entirely by the employer, and controlled entirely by the parents.  
  
 The N.A.M. conference workshop on Child Care shall be incorporated into the N.A.M. interim structure as a continuing committee for research and information in this area. Funds should be available from N.A.M. for such activities as a clearinghouse for such information. We recommend that at least one member of the N.I.C. have as his or her main program responsibility, the development and coordination of N.A.M.'s child care program. 
 
-8\. People's Control of the Economy 
+## 8\. People's Control of the Economy 
 
 We believe that "People's Control of the Economy" should be a central principle of N.A. M. "People's Control of the Economy" opens the door to discussion of our ultimate goal and squarely confronts the new economic policy through which the government nakedly manages the economy on behalf of the corporations. 
 
