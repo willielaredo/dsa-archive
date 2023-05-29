@@ -1,4 +1,4 @@
-[NAM Newspaper](/dsa-archive/#nam-newspaper) > [Jan 1973, Vol 1. No 3](/dsa-archive/#january-vol-1-no-3-pdf)
+[NAM Newspaper](/dsa-archive/#nam-newspaper) > [Jan 1972, Vol 1. No 3](/dsa-archive/#january-vol-1-no-3-pdf)
 
 # Economic Programs of N.A.M., Adopted at Davenport, Iowa
 November, 1971

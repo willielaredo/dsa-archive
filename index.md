@@ -6,10 +6,10 @@
 
 #### January, Vol 1. No. 3 [PDF](https://democraticleft.dsausa.org/files/sites/6/2022/08/NAM_1972_V1-n3_final.pdf)
 
-[Notes from Davenport Conference of NAM](/nam/v001_n003_1973_January/notes-from-davenport.md)
+[Notes from Davenport Conference of NAM](/nam/v001_n003_1972_January/notes-from-davenport.md)
 
-[Economic Program of NAM](/nam/v001_n003_1973_January/economic-programs-of-nam.md)
+[Economic Program of NAM](/nam/v001_n003_1972_January/economic-programs-of-nam.md)
 
-[Women in NAM: Report on the Women's Caucus](/nam/v001_n003_1973_January/women-in-nam.md)
+[Women in NAM: Report on the Women's Caucus](/nam/v001_n003_1972_January/women-in-nam.md)
 
-[Anti-Corporate Organizing Priority Proposal](/nam/v001_n003_1973_January/anti-corporate-organizing.md)
+[Anti-Corporate Organizing Priority Proposal](/nam/v001_n003_1972_January/anti-corporate-organizing.md)

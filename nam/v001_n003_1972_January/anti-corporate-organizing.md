@@ -1,4 +1,4 @@
-[NAM Newspaper](/dsa-archive/#nam-newspaper) > [Jan 1973, Vol 1. No 3](/dsa-archive/#january-vol-1-no-3-pdf) 
+[NAM Newspaper](/dsa-archive/#nam-newspaper) > [Jan 1972, Vol 1. No 3](/dsa-archive/#january-vol-1-no-3-pdf) 
 # Anti-Corporation Organizing Priority Proposal 
 
 Much of what has been discussed this weekend, in terms both of general political-economic analysis and in terms of concrete programs, has focused on the need to bring together workplace and community organizing. The movement has developed some grassroots strengths is the latter; nothing of significance in the former. Anti-corporation projects, imaginatively conceived, can meet some of the need for stronger workplace organizing and for liaison between it and the more developed pro- grams of community organizing. The main strength of the anti-corporation project in this regard is that it is possible to organize "around" a corporation, as well as within it—to focus people's attention on the physical, financial, social, and political effects that corporations have on their lives. 
