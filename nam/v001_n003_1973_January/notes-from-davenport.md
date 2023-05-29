@@ -1,3 +1,5 @@
+[NAM Newspaper](/dsa-archive/#nam-newspaper) > [Jan 1973, Vol 1. No 3](/dsa-archive/#january-vol-1-no-3-pdf)
+
 # NAM CONFERENCE
 ## Notes from Davenport
 

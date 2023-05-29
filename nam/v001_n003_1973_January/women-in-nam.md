@@ -1,4 +1,4 @@
-[NAM Newspaper](/dsa-archive/index.md#nam-newspaper) > [Jan 1973, Vol 1. No 3](index.md/#january-vol-1-no-3)
+[NAM Newspaper](/dsa-archive/#nam-newspaper) > [Jan 1973, Vol 1. No 3](/dsa-archive/#january-vol-1-no-3-pdf)
 
 # Women in NAM: Report on the Women's Caucus
 
