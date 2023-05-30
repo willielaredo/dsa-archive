@@ -1,0 +1,21 @@
+[NAM Newspaper](/dsa-archive/#nam-newspaper) > [April 1972, Vol 1. No 6](/dsa-archive/#april-1972-vol-1-no-6-pdf)
+# Capitalism Means War
+
+The National Interim Committee of NAM has called on President Nixon to stop bombing Vietnam and to return to the Paris peace talks. It also urges all NAM chapters and members to take part in all anti-war actions and to demand an end to the air war, return to Paris, and get out of Indo-China completely. 
+
+The current offensive by liberation forces in Vietnam has proved conclusively that "Vietnamization" is only a publicity stunt designed to confuse the American people. In responding to the offensive, Nixon has chosen to escalate the US air war against the Indochinese peoples—even to bombing Hanoi and Haiphong—rather than to withdraw all American forces. Thus far he has partially withdrawn ground troops while brutally intensifying bombing and the use of electronic, remote-controlled antipersonnel weaponry throughout Indochina. His hand forced by the Vietnamese, Nixon is escalating the air war in an attempt to devastate the entire area (which would still not give him victory). The only other choice is to recognize that the war cannot be won and to honestly disengage planes, guns and men. 
+
+A total withdrawal would be a blow to those corporate interests with direct investment in Vietnam and also to the greater number of corporations that fear that withdrawal from Vietnam will precipitate liberation struggles in other countries dominated by American capital. But ending the war would be a relief to the vast majority of people in the United States who have wondered for years why the war drags on when an ever-increasing majority wants it to end. 
+
+The war in Vietnam has been fought for more than 25 years. It began when US corporations decided after World War II to defend the colonial interests of all imperial powers too weak to defend their own empires. When, after nine years of war financed by the United States, the French were defeated by the Vietnamese, the US stepped in directly to prevent independence. This was done not only to defend the imperial system, but also to justify a massive arms budget, paid for by taxing working people and designed to keep American corporations profitable. It is part of a global policy of the United States to keep the colonies, and all other capitalist countries, open for investment by American corporations. 
+
+The war against Vietnam has taught hundreds of thousands of Americans that the United States will not permit the liberation of any colonies, if it can prevent it, as long as corporate capitalism prevail. But the war has also taught us that the corporations are not invincible, and that the interests of working people in our country are the same as those of the Vietnamese. We urge people to work to end the war in Vietnam, right now, to prevent further massacre of the Vietnamese people, and to lay the foundation for a socialist movement that will oppose American capital and support the liberation of all colonies. 
+
+Victory for the Vietnamese is not a defeat for the American people. It is a defeat for the American ruling class and for President Nixon. Everyone who wishes to see socialism in the US must work to end the war now. And everyone who wants to end all colonial wars must come to realize that this can happen only with the defeat of corporate capitalism and the creation of democratic socialism in the United States. 
+
+We urge all NAM members and others opposed to the war:
+
+- to support, by participating in, all anti-war coalitions, and to try to build the broadest possible movement around an end to the war and total US withdrawal from Indo-China
+- to put our perspective forward in all such actions: that although the people of Vietnam and the United States may be able to force an acceptable end to this particular war, the United States will continue to wage open and secret wars against colonial liberation movements as long as corporate capitalism exists in this country. 
+
+To be anti-imperialist means to be part of a movement for democratic socialism.
