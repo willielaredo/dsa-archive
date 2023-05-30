@@ -25,3 +25,5 @@
 [National Interim Committee As Elected - Nov 28, 1971](/nam/v001_n003_1972_January/national-interim-committee-as-elected-november-28-1971.md)  
 
 [Letter from National Office ad hoc Temporary Collective](/nam/v001_n003_1972_January/letter-from-national-office-ad-hoc-committee.md)
+
+[A Note to Readers](/nam/v001_n003_1972_January/a-note-to-readers.md)
