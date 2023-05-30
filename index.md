@@ -4,7 +4,7 @@
 
 ### 1972
 
-#### January, Vol 1. No. 3 [PDF](https://democraticleft.dsausa.org/files/sites/6/2022/08/NAM_1972_V1-n3_final.pdf)
+#### January 1972, Vol 1. No. 3 [PDF](https://democraticleft.dsausa.org/files/sites/6/2022/08/NAM_1972_V1-n3_final.pdf)
 
 [Notes from Davenport Conference of NAM](/nam/v001_n003_1972_January/notes-from-davenport.md)
 
@@ -27,3 +27,5 @@
 [Letter from National Office ad hoc Temporary Collective](/nam/v001_n003_1972_January/letter-from-national-office-ad-hoc-committee.md)
 
 [A Note to Readers](/nam/v001_n003_1972_January/a-note-to-readers.md)
+
+#### April 1972, Vol 1. No. 6 [PDF](https://democraticleft.dsausa.org/files/sites/6/1972/04/NAM_1972_V1-n6_final.pdf)
