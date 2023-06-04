@@ -27,3 +27,5 @@
 ## *New American Movement,* April 1972, Vol 1. No. 6 [PDF](https://democraticleft.dsausa.org/files/sites/6/1972/04/NAM_1972_V1-n6_final.pdf)
 
 [Capitalism Means War](/nam/v001_n006_1972_April/capitalism-means-war.md)
+
+[San Diego '72: A Report and Analysis](/nam/v001_n006_1972_April/san-diego-72-report-and-analysis.md)
