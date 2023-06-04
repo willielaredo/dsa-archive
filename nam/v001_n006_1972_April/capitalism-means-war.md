@@ -1,4 +1,4 @@
-[NAM Newspaper](/dsa-archive/#nam-newspaper) > [April 1972, Vol 1. No 6](/dsa-archive/#april-1972-vol-1-no-6-pdf)
+[NAM Newspaper](/dsa-archive/#nam-newspaper) > [April 1972, Vol 1. No 6](/dsa-archive/#new-american-movement-april-1972-vol-1-no-6-pdf)
 # Capitalism Means War
 
 The National Interim Committee of NAM has called on President Nixon to stop bombing Vietnam and to return to the Paris peace talks. It also urges all NAM chapters and members to take part in all anti-war actions and to demand an end to the air war, return to Paris, and get out of Indo-China completely. 
