@@ -1,4 +1,4 @@
-[NAM Newspaper](/dsa-archive/#nam-newspaper) > [April 1972, Vol 1. No 6](/dsa-archive/#april-1972-vol-1-no-6-pdf)
+[NAM Newspaper](/dsa-archive/#nam-newspaper) > [April 1972, Vol 1. No 6](/dsa-archive/#new-american-movement-april-1972-vol-1-no-6-pdf)
 # San Diego '72: A Report and Analysis
 
 by David Plotke
