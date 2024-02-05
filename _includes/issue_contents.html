@@ -4,7 +4,10 @@
 {% assign page_title = page.title %}
 {% for x in titles_by_title %}
     {% if x.url contains num and x.title != page_title %}
-       <p> <a href=" {{ x.url }}">{{ x.title }}</a>{% if x.author %} by {{ x.author }} {% endif %} <br>{{ x.content | truncatewords:50 | strip_html}} </p>
+        {% assign url_parts = x.url | split: '/' %}
+        {% assign url_parts_size = url_parts | size %}
+        {% assign rm = url_parts | last %}
+       <p> <a href=" {{ rm }}">{{ x.title }}</a>{% if x.author %} by {{ x.author }} {% endif %} <br>{{ x.content | truncatewords:50 | strip_html}} </p>
     {% endif %}
 {% endfor %}
 </ul>

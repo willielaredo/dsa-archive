@@ -7,7 +7,7 @@
     {% assign url_parts_size = url_parts | size %}
     {% assign rm = url_parts | last %}
     {% if x.url contains pub and rm contains "v0" %}
-       <li> <a href=" {{ x.url }}">{{ x.title }}  ({{ x.years}}) </a></li>
+       <li> <a href=" {{ rm }}">{{ x.title }}  ({{ x.years}}) </a></li>
     {% endif %}
 {% endfor %}
 </ul>

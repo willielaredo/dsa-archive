@@ -7,7 +7,7 @@
     {% assign url_parts_size = url_parts | size %}
     {% assign rm = url_parts | last %}
     {% if x.url contains pub and x.url contains page.volume and rm contains "n0" %}
-       <li> <a href=" {{ x.url }}">{{ x.month }} {{x.year}}, {{ x.issue_title }} </a></li>
+       <li> <a href="{{ rm }}">{{ x.month }} {{x.year}}, {{ x.issue_title }} </a></li>
     {% endif %}
 {% endfor %}
 </ul>
