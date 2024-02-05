@@ -1,0 +1,10 @@
+<ul>
+{% assign titles_by_title = site.pages | sort: "title" %}
+{% assign num = page.number %}
+{% assign page_title = page.title %}
+{% for x in titles_by_title %}
+    {% if x.url contains num and x.title != page_title %}
+       <p> <a href=" {{ x.url }}">{{ x.title }}</a>{% if x.author %} by {{ x.author }} {% endif %} <br>{{ x.content | truncatewords:50 | strip_html}} </p>
+    {% endif %}
+{% endfor %}
+</ul>

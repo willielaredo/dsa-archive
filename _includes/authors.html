@@ -1,0 +1,7 @@
+<ul>
+{% for x in site.pages %}
+    {% if x.author %}
+        <li> {{ x.author }}</li>
+    {% endif %}
+{% endfor %}
+</ul>
